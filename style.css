@@ -1,7 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-
+    margin: 20px; /* Adds a margin of 20px around the page */
+    padding: 0;
 }
 
 header {
